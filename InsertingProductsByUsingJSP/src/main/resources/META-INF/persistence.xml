@@ -12,7 +12,7 @@
 			<property name="javax.persistence.jdbc.driver"
 				value="oracle.jdbc.driver.OracleDriver" />
 			<property name="javax.persistence.jdbc.url"
-				value="jdbc:oracle:thin:@//10.0.0.5:1521/rvpdb1.sub081409003601.rvtestvcn.oraclevcn.com" />
+				value="jdbc:oracle:thin:@//localhostee:1521/rvpdb1.sub081409003601.rvtestvcn.oraclevcn.com" />
 			<property name="javax.persistence.jdbc.user"
 				value="TEST_ALL" />
 			<property name="javax.persistence.jdbc.password"
